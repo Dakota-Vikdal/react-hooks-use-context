@@ -1,6 +1,6 @@
 const user = {
-  name: "Duane",
-  interests: ["Coding", "Biking", "Words ending in 'ing'"],
+  name: "Dakota",
+  interests: ["Gaming", "Adventure", "Eating"],
 };
 
 export default user;
